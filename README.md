@@ -13,7 +13,7 @@ My first password generator made in Java with customizable character sets and Fi
 ## Usage
 
 ```bash
-javac passgen.java
+javac Passgen.java
 java Passgen
 ```
 
@@ -22,5 +22,6 @@ The program will prompt you for:
 - Number of lowercase letters (a-z)
 - Number of uppercase letters (A-Z)
 - Number of special characters (!@#$%^&*()-_=+[]{}|;:',.<>?/)
+
 
 I tested this with a `40 million` character password (LOL), enjoy!
